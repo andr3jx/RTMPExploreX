@@ -3,7 +3,7 @@ RTMPExploreX
 RTMPExploreX (by Andr3jx) is an improved version of RTMPExplorer ( http://bit.ly/J24rky ). 
 RTMPExploreX is a freeware GUI for rtmpsrv/rtmpsuck. RTMPexploreX routes all RTMP/RTMPE traffic to rtmpsrv/rtmpsuck. This allows to download RTMP and RTMPE streams using RTMPdump automatically.
 It is open source, so everybody can contribute to the project ( https://github.com/andr3jx/RTMPExploreX ). The main part of the code was decompiled from RTMPExplorer. It makes use of EasyHook-library available here: http://easyhook.codeplex.com/ 
-RTMPExploreX is an extended userfriendlier version of RTMPExplorer.
+RTMPExploreX is an extended userfriendlier version of RTMPExplorer. You need the latest .NET-Framework to use it.
 
 How to use:
 - !! Copy rtmpdump, rtmpsrv(-vlc), rtmpsuck to the directory of RTMPExploreX. You can download them e.g. here: http://www.videohelp.com/download/rtmpdump-v2.5.zip
