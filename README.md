@@ -1,4 +1,4 @@
-RTMPExploreX
+RTMPExploreX v1.1
 ============
 RTMPExploreX (by Andr3jx) is an improved version of RTMPExplorer ( http://bit.ly/J24rky ). 
 RTMPExploreX is a freeware GUI for rtmpsrv/rtmpsuck. RTMPexploreX routes all RTMP/RTMPE traffic to rtmpsrv/rtmpsuck. This allows to download RTMP and RTMPE streams using RTMPdump automatically.
